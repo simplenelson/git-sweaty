@@ -11802,5 +11802,18 @@
     "start_date_local": "2026-03-11T13:56:05Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 46129.2,
+    "elevation_gain": 372.0,
+    "id": "17702459974",
+    "moving_time": 6720.0,
+    "name": "ROUVY - TriDot 2026-03-12 Easy Ride - 2026-03-12",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-12T13:59:50Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
