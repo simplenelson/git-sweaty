@@ -11854,5 +11854,31 @@
     "start_date_local": "2026-03-13T12:44:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 90603.4,
+    "elevation_gain": 783.0,
+    "id": "17722909189",
+    "moving_time": 11667.0,
+    "name": "ROUVY - IRONMAN 70.3 Oceanside GPX",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T08:16:48Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 7447.9,
+    "elevation_gain": 84.0,
+    "id": "17723271541",
+    "moving_time": 2401.0,
+    "name": "Off the bike. Race pace",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-14T11:35:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -8207,6 +8207,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17711960475",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 8,
+      "name": "ROUVY - IRONMAN 70.3 Oceanside GPX",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17722909189",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 11,
+      "name": "Off the bike. Race pace",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17723271541",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15520,6 +15538,15 @@
           "distance": 5037.3,
           "elevation_gain": 70.0,
           "moving_time": 1731.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17723271541"
+          ],
+          "count": 1,
+          "distance": 7447.9,
+          "elevation_gain": 84.0,
+          "moving_time": 2401.0
         }
       },
       "Swim": {
@@ -16059,6 +16086,15 @@
           "distance": 29015.4,
           "elevation_gain": 144.0,
           "moving_time": 3870.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17722909189"
+          ],
+          "count": 1,
+          "distance": 90603.4,
+          "elevation_gain": 783.0,
+          "moving_time": 11667.0
         }
       },
       "Walk": {
@@ -16355,7 +16391,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:28:14.228149+00:00",
+  "generated_at": "2026-03-15T15:29:04.645212+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
