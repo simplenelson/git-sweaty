@@ -11893,5 +11893,44 @@
     "start_date_local": "2026-03-15T11:00:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 46611.7,
+    "elevation_gain": 96.0,
+    "id": "17745449659",
+    "moving_time": 6008.0,
+    "name": "ROUVY - TriDot 2026-03-16 Easy Ride - 2026-03-16",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-16T10:12:48Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 3162.5,
+    "elevation_gain": 26.0,
+    "id": "17748440609",
+    "moving_time": 1271.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-16T16:46:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 3464.4,
+    "elevation_gain": 20.3,
+    "id": "17748494366",
+    "moving_time": 1295.0,
+    "name": "Nelson took Nami for a walk with her Fi Smart Collar",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-16T16:45:03Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
