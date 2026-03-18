@@ -11932,5 +11932,44 @@
     "start_date_local": "2026-03-16T16:45:03Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 29566.0,
+    "elevation_gain": 171.0,
+    "id": "17755855364",
+    "moving_time": 3599.0,
+    "name": "ROUVY - TriDot 2026-03-17 Threshold Intervals - 2026-03-17",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-17T08:30:28Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 1463.0,
+    "elevation_gain": 0.0,
+    "id": "17767576012",
+    "moving_time": 2389.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-18T07:26:30Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17768036482",
+    "moving_time": 2199.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-18T08:17:39Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

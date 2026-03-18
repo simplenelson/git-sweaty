@@ -8261,6 +8261,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17748494366",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 8,
+      "name": "ROUVY - TriDot 2026-03-17 Threshold Intervals - 2026-03-17",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17755855364",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 7,
+      "name": "Morning Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/17767576012",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 8,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17768036482",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15819,6 +15846,15 @@
           "distance": 1828.8,
           "elevation_gain": 0.0,
           "moving_time": 2660.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17767576012"
+          ],
+          "count": 1,
+          "distance": 1463.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2389.0
         }
       },
       "VirtualRide": {
@@ -16158,6 +16194,15 @@
           "distance": 46611.7,
           "elevation_gain": 96.0,
           "moving_time": 6008.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17755855364"
+          ],
+          "count": 1,
+          "distance": 29566.0,
+          "elevation_gain": 171.0,
+          "moving_time": 3599.0
         }
       },
       "Walk": {
@@ -16459,11 +16504,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1774.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17768036482"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2199.0
         }
       }
     }
   },
-  "generated_at": "2026-03-17T16:06:40.249187+00:00",
+  "generated_at": "2026-03-18T16:08:15.798360+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
