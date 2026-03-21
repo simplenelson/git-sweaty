@@ -11984,5 +11984,31 @@
     "start_date_local": "2026-03-18T14:22:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 1577.3,
+    "elevation_gain": 0.0,
+    "id": "17793085602",
+    "moving_time": 2265.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-20T08:58:13Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 24253.2,
+    "elevation_gain": 256.0,
+    "id": "17796878480",
+    "moving_time": 4391.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T15:31:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
