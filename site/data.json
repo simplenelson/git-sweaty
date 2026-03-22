@@ -8315,6 +8315,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17796878480",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 10,
+      "name": "ROUVY - TriDot 2026-03-21 Threshold & Hold - 2026-03-21",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17807837563",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 13,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17808027473",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 13,
+      "name": "Nelson took Nami for a walk with her Fi Smart Collar",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17808076963",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15673,6 +15700,15 @@
           "distance": 10037.2,
           "elevation_gain": 97.0,
           "moving_time": 3547.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17808027473"
+          ],
+          "count": 1,
+          "distance": 3348.5,
+          "elevation_gain": 56.0,
+          "moving_time": 1174.0
         }
       },
       "Swim": {
@@ -16257,6 +16293,15 @@
           "distance": 29566.0,
           "elevation_gain": 171.0,
           "moving_time": 3599.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17807837563"
+          ],
+          "count": 1,
+          "distance": 86811.0,
+          "elevation_gain": 74.0,
+          "moving_time": 10805.0
         }
       },
       "Walk": {
@@ -16385,6 +16430,15 @@
           "distance": 3464.4,
           "elevation_gain": 20.3,
           "moving_time": 1295.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17808076963"
+          ],
+          "count": 1,
+          "distance": 3381.7,
+          "elevation_gain": 22.2,
+          "moving_time": 1194.0
         }
       },
       "WeightTraining": {
@@ -16571,7 +16625,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:26:21.911828+00:00",
+  "generated_at": "2026-03-22T15:26:48.873059+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
