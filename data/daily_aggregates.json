@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T15:30:29.409153+00:00",
+  "generated_at": "2026-03-29T15:31:57.205840+00:00",
   "years": {
     "2024": {
       "Hike": {
@@ -6994,6 +6994,16 @@
           "distance": 14729.9,
           "elevation_gain": 138.0,
           "moving_time": 2717.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17894132399",
+            "17895954524"
+          ],
+          "count": 2,
+          "distance": 173626.1,
+          "elevation_gain": 1669.0,
+          "moving_time": 25278.0
         }
       },
       "Run": {
@@ -7392,6 +7402,15 @@
           "distance": 5520.1,
           "elevation_gain": 60.0,
           "moving_time": 2002.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17894132546"
+          ],
+          "count": 1,
+          "distance": 21171.1,
+          "elevation_gain": 201.0,
+          "moving_time": 9182.0
         }
       },
       "Swim": {
@@ -7637,6 +7656,15 @@
           "distance": 1280.2,
           "elevation_gain": 0.0,
           "moving_time": 2012.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17894132368"
+          ],
+          "count": 1,
+          "distance": 1974.4,
+          "elevation_gain": 12.0,
+          "moving_time": 3039.0
         }
       },
       "VirtualRide": {
@@ -8331,6 +8359,18 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1507.0
+        }
+      },
+      "Workout": {
+        "2026-03-28": {
+          "activity_ids": [
+            "17894132366",
+            "17894132367"
+          ],
+          "count": 2,
+          "distance": 7382.6,
+          "elevation_gain": 78.0,
+          "moving_time": 1433.0
         }
       }
     }
