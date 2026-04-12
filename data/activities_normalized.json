@@ -12270,5 +12270,18 @@
     "start_date_local": "2026-04-10T17:21:17Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 20667.2,
+    "elevation_gain": 90.0,
+    "id": "18071708622",
+    "moving_time": 2527.0,
+    "name": "Zwift - TriDot: 2026-04-11 Threshold Intervals",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-11T21:01:06Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
