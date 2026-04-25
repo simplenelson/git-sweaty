@@ -8603,6 +8603,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18205482097",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 14,
+      "name": "Zwift - The Wringer",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18253253123",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16699,6 +16708,15 @@
           "distance": 29895.2,
           "elevation_gain": 254.0,
           "moving_time": 3789.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18253253123"
+          ],
+          "count": 1,
+          "distance": 12253.7,
+          "elevation_gain": 172.0,
+          "moving_time": 1705.0
         }
       },
       "Walk": {
@@ -17133,7 +17151,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T16:04:38.776185+00:00",
+  "generated_at": "2026-04-25T15:39:10.327154+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
