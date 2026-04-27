@@ -8612,6 +8612,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18253253123",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18269917687",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 10,
+      "name": "Nelson took Nami for a walk with her Fi Smart Collar",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18269997783",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 15,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18272391786",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16079,6 +16106,15 @@
           "distance": 3383.9,
           "elevation_gain": 40.0,
           "moving_time": 1329.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18269917687"
+          ],
+          "count": 1,
+          "distance": 4101.4,
+          "elevation_gain": 59.0,
+          "moving_time": 1766.0
         }
       },
       "Swim": {
@@ -16908,6 +16944,15 @@
           "distance": 5808.8,
           "elevation_gain": 45.4,
           "moving_time": 2257.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18269997783"
+          ],
+          "count": 1,
+          "distance": 4066.0,
+          "elevation_gain": 39.2,
+          "moving_time": 1709.0
         }
       },
       "WeightTraining": {
@@ -17135,6 +17180,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1334.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18272391786"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1693.0
         }
       },
       "Workout": {
@@ -17151,7 +17205,7 @@
       }
     }
   },
-  "generated_at": "2026-04-26T15:41:36.440534+00:00",
+  "generated_at": "2026-04-27T16:26:14.195731+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
