@@ -12478,5 +12478,31 @@
     "start_date_local": "2026-04-26T15:08:31Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 16580.8,
+    "elevation_gain": 125.0,
+    "id": "18322931191",
+    "moving_time": 2102.0,
+    "name": "Zwift - Aerobic Sustainability",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T18:20:26Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18334741899",
+    "moving_time": 1529.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-01T08:16:05Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
