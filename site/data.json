@@ -8657,6 +8657,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18334741899",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 15,
+      "name": "Zwift - Taper Steady",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18441019181",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16780,6 +16789,15 @@
           "distance": 16580.8,
           "elevation_gain": 125.0,
           "moving_time": 2102.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18441019181"
+          ],
+          "count": 1,
+          "distance": 12326.9,
+          "elevation_gain": 62.0,
+          "moving_time": 1514.0
         }
       },
       "Walk": {
@@ -17241,7 +17259,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:52:17.364815+00:00",
+  "generated_at": "2026-05-10T15:54:12.216580+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
