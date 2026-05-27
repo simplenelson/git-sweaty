@@ -12569,5 +12569,18 @@
     "start_date_local": "2026-05-17T09:04:49Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 8974.3,
+    "elevation_gain": 100.0,
+    "id": "18675214672",
+    "moving_time": 3407.0,
+    "name": "Back at it. 1km reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T05:35:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -8702,6 +8702,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18545813481",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 5,
+      "name": "Back at it. 1km reps",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18675214672",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16196,6 +16205,15 @@
           "distance": 2180.0,
           "elevation_gain": 19.0,
           "moving_time": 936.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18675214672"
+          ],
+          "count": 1,
+          "distance": 8974.3,
+          "elevation_gain": 100.0,
+          "moving_time": 3407.0
         }
       },
       "Swim": {
@@ -17331,7 +17349,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:55:19.891251+00:00",
+  "generated_at": "2026-05-27T17:57:07.172390+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
