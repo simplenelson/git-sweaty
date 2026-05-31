@@ -12595,5 +12595,31 @@
     "start_date_local": "2026-05-28T08:00:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 2170.3,
+    "elevation_gain": 37.0,
+    "id": "18719371622",
+    "moving_time": 923.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-30T11:16:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 2238.6,
+    "elevation_gain": 16.2,
+    "id": "18719423654",
+    "moving_time": 874.0,
+    "name": "Nelson took Nami for a walk with her Fi Smart Collar",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-30T11:15:09Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
