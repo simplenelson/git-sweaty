@@ -8765,6 +8765,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18756695871",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 7,
+      "name": "Over Under 400s",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18771484972",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18798566818",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16304,6 +16322,24 @@
           "distance": 7239.7,
           "elevation_gain": 69.0,
           "moving_time": 3158.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18771484972"
+          ],
+          "count": 1,
+          "distance": 8199.6,
+          "elevation_gain": 78.0,
+          "moving_time": 3065.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18798566818"
+          ],
+          "count": 1,
+          "distance": 8934.4,
+          "elevation_gain": 95.0,
+          "moving_time": 3436.0
         }
       },
       "Swim": {
@@ -17457,7 +17493,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:38:51.621039+00:00",
+  "generated_at": "2026-06-05T17:15:36.224020+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
