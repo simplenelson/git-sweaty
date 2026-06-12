@@ -8792,6 +8792,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18866667715",
       "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 7,
+      "name": "2 mile tempo",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18891829986",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16358,6 +16367,15 @@
           "distance": 10266.6,
           "elevation_gain": 113.0,
           "moving_time": 3937.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18891829986"
+          ],
+          "count": 1,
+          "distance": 8277.3,
+          "elevation_gain": 90.0,
+          "moving_time": 3289.0
         }
       },
       "Swim": {
@@ -17511,7 +17529,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T18:12:19.374465+00:00",
+  "generated_at": "2026-06-12T17:37:24.740528+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",

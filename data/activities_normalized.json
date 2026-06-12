@@ -12699,5 +12699,18 @@
     "start_date_local": "2026-06-10T08:01:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 8277.3,
+    "elevation_gain": 90.0,
+    "id": "18891829986",
+    "moving_time": 3289.0,
+    "name": "2 mile tempo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-12T07:19:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
