@@ -13102,5 +13102,18 @@
     "start_date_local": "2026-07-14T08:22:01Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 7195.1,
+    "elevation_gain": 415.0,
+    "id": "19327053700",
+    "moving_time": 9380.0,
+    "name": "16k ft up",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-15T08:14:26Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
