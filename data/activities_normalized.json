@@ -13258,5 +13258,31 @@
     "start_date_local": "2026-07-25T07:52:18Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 21093.2,
+    "elevation_gain": 292.0,
+    "id": "19475826505",
+    "moving_time": 7351.0,
+    "name": "10k PB on a marathon pace practice run!? Gimme",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T07:43:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 6463.7,
+    "elevation_gain": 87.0,
+    "id": "19487069988",
+    "moving_time": 2593.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-27T08:03:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

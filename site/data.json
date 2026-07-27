@@ -9179,6 +9179,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19461017550",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 7,
+      "name": "10k PB on a marathon pace practice run!? Gimme",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19475826505",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-27",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19487069988",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17026,6 +17044,24 @@
           "distance": 5233.8,
           "elevation_gain": 89.0,
           "moving_time": 2117.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19475826505"
+          ],
+          "count": 1,
+          "distance": 21093.2,
+          "elevation_gain": 292.0,
+          "moving_time": 7351.0
+        },
+        "2026-07-27": {
+          "activity_ids": [
+            "19487069988"
+          ],
+          "count": 1,
+          "distance": 6463.7,
+          "elevation_gain": 87.0,
+          "moving_time": 2593.0
         }
       },
       "Swim": {
@@ -18287,7 +18323,7 @@
       }
     }
   },
-  "generated_at": "2026-07-26T16:00:09.687453+00:00",
+  "generated_at": "2026-07-27T16:56:29.394634+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
