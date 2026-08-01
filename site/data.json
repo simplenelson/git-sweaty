@@ -9237,7 +9237,7 @@
     {
       "date": "2026-07-31",
       "hour": 7,
-      "name": "Mike repeats",
+      "name": "Mile Repeats",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/19544202466",
@@ -18413,7 +18413,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T16:44:58.098170+00:00",
+  "generated_at": "2026-08-01T15:59:56.609485+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
