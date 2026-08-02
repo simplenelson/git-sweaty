@@ -9242,6 +9242,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19544202466",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19558455162",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 8,
+      "name": "Nelson took Nami for a walk with her Fi Smart Collar",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19558556664",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17143,6 +17161,15 @@
           "distance": 8690.2,
           "elevation_gain": 121.0,
           "moving_time": 3090.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19558455162"
+          ],
+          "count": 1,
+          "distance": 5244.4,
+          "elevation_gain": 74.0,
+          "moving_time": 2220.0
         }
       },
       "Swim": {
@@ -18134,6 +18161,15 @@
           "distance": 6576.4,
           "elevation_gain": 66.1,
           "moving_time": 2670.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19558556664"
+          ],
+          "count": 1,
+          "distance": 5327.4,
+          "elevation_gain": 62.9,
+          "moving_time": 2183.0
         }
       },
       "WeightTraining": {
@@ -18413,7 +18449,7 @@
       }
     }
   },
-  "generated_at": "2026-08-01T15:59:56.609485+00:00",
+  "generated_at": "2026-08-02T16:00:18.699776+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
