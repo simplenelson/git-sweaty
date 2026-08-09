@@ -13466,5 +13466,57 @@
     "start_date_local": "2026-08-07T07:10:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 4088.0,
+    "elevation_gain": 69.0,
+    "id": "19656786012",
+    "moving_time": 1726.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T08:23:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 4160.1,
+    "elevation_gain": 47.7,
+    "id": "19656896118",
+    "moving_time": 1762.0,
+    "name": "Morning walk with Nami",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-08T08:23:11Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 167.3,
+    "elevation_gain": 0.0,
+    "id": "19661381355",
+    "moving_time": 538.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-08T17:12:16Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 132.6,
+    "elevation_gain": 0.0,
+    "id": "19661578542",
+    "moving_time": 258.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-08T17:45:12Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
