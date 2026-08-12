@@ -13557,5 +13557,31 @@
     "start_date_local": "2026-08-10T09:41:14Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19699168116",
+    "moving_time": 1252.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-11T09:29:17Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 9508.6,
+    "elevation_gain": 40.0,
+    "id": "19712773404",
+    "moving_time": 3056.0,
+    "name": "5 mile time trial",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-12T07:43:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
