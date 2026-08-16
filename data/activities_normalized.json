@@ -13622,5 +13622,18 @@
     "start_date_local": "2026-08-14T10:21:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 14517.8,
+    "elevation_gain": 102.0,
+    "id": "19755389984",
+    "moving_time": 1948.0,
+    "name": "Zwift - SST (Short)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-15T16:05:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
