@@ -9503,6 +9503,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19854308130",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 8,
+      "name": "What\u2019s another 7 miles",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19869825835",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17584,6 +17593,15 @@
           "distance": 5234.0,
           "elevation_gain": 75.0,
           "moving_time": 2243.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19869825835"
+          ],
+          "count": 1,
+          "distance": 30581.1,
+          "elevation_gain": 165.0,
+          "moving_time": 11147.0
         }
       },
       "Swim": {
@@ -18927,7 +18945,7 @@
       }
     }
   },
-  "generated_at": "2026-08-23T15:20:48.104036+00:00",
+  "generated_at": "2026-08-24T15:37:37.334339+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
