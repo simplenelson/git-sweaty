@@ -13869,5 +13869,18 @@
     "start_date_local": "2026-09-01T10:00:39Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 8775.1,
+    "elevation_gain": 116.0,
+    "id": "20007642315",
+    "moving_time": 3335.0,
+    "name": "Mile Repeats",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-02T08:24:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
