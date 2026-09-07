@@ -13934,5 +13934,31 @@
     "start_date_local": "2026-09-05T09:38:21Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 34889.2,
+    "elevation_gain": 612.0,
+    "id": "20066277300",
+    "moving_time": 16601.0,
+    "name": "2k elevation gain. Tf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T07:54:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20077618258",
+    "moving_time": 2433.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-07T10:06:55Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
