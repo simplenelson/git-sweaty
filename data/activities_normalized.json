@@ -14012,5 +14012,44 @@
     "start_date_local": "2026-09-11T08:17:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 4833.4,
+    "elevation_gain": 102.0,
+    "id": "20145623080",
+    "moving_time": 2256.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T07:34:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 5058.6,
+    "elevation_gain": 61.8,
+    "id": "20145720410",
+    "moving_time": 2193.0,
+    "name": "Morning walk with Nami",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-12T07:33:47Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20146251760",
+    "moving_time": 1734.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-12T08:24:37Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
