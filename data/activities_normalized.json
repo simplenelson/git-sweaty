@@ -14051,5 +14051,57 @@
     "start_date_local": "2026-09-12T08:24:37Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 27480.9,
+    "elevation_gain": 133.0,
+    "id": "20162255781",
+    "moving_time": 3477.0,
+    "name": "Zwift - Aerobic Foundation Forge",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-13T17:02:33Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20164018695",
+    "moving_time": 2238.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-13T14:07:19Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 5648.3,
+    "elevation_gain": 89.0,
+    "id": "20172191361",
+    "moving_time": 2652.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-14T08:00:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20172498839",
+    "moving_time": 1217.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-14T08:48:25Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

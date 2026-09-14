@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T17:55:19.600386+00:00",
+  "generated_at": "2026-09-14T19:44:14.434963+00:00",
   "years": {
     "2024": {
       "Hike": {
@@ -8241,6 +8241,15 @@
           "distance": 4833.4,
           "elevation_gain": 102.0,
           "moving_time": 2256.0
+        },
+        "2026-09-14": {
+          "activity_ids": [
+            "20172191361"
+          ],
+          "count": 1,
+          "distance": 5648.3,
+          "elevation_gain": 89.0,
+          "moving_time": 2652.0
         }
       },
       "Swim": {
@@ -8916,6 +8925,15 @@
           "distance": 14517.8,
           "elevation_gain": 102.0,
           "moving_time": 1948.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20162255781"
+          ],
+          "count": 1,
+          "distance": 27480.9,
+          "elevation_gain": 133.0,
+          "moving_time": 3477.0
         }
       },
       "Walk": {
@@ -9631,6 +9649,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1734.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20164018695"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2238.0
+        },
+        "2026-09-14": {
+          "activity_ids": [
+            "20172498839"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1217.0
         }
       },
       "Workout": {
