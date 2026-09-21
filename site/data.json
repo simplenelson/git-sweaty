@@ -9800,6 +9800,42 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20244001756",
       "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 9,
+      "name": "Sickly long run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20259466519",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 11,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20259783683",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-21",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20271440550",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-21",
+      "hour": 12,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20272275091",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18070,6 +18106,24 @@
           "distance": 11863.3,
           "elevation_gain": 176.0,
           "moving_time": 5753.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "20259466519"
+          ],
+          "count": 1,
+          "distance": 23221.3,
+          "elevation_gain": 197.0,
+          "moving_time": 8439.0
+        },
+        "2026-09-21": {
+          "activity_ids": [
+            "20271440550"
+          ],
+          "count": 1,
+          "distance": 8055.3,
+          "elevation_gain": 121.0,
+          "moving_time": 3575.0
         }
       },
       "Swim": {
@@ -19125,6 +19179,15 @@
           "distance": 5058.6,
           "elevation_gain": 61.8,
           "moving_time": 2193.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "20259783683"
+          ],
+          "count": 1,
+          "distance": 2932.1,
+          "elevation_gain": 46.0,
+          "moving_time": 2156.0
         }
       },
       "WeightTraining": {
@@ -19505,6 +19568,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1581.0
+        },
+        "2026-09-21": {
+          "activity_ids": [
+            "20272275091"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1693.0
         }
       },
       "Workout": {
@@ -19521,7 +19593,7 @@
       }
     }
   },
-  "generated_at": "2026-09-20T17:58:47.570120+00:00",
+  "generated_at": "2026-09-21T19:52:19.962359+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
