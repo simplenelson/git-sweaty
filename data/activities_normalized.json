@@ -14298,5 +14298,18 @@
     "start_date_local": "2026-09-26T10:14:13Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 22541.1,
+    "elevation_gain": 164.0,
+    "id": "20356680586",
+    "moving_time": 8269.0,
+    "name": "See you soon Chicago",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-27T10:17:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
