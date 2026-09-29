@@ -14311,5 +14311,18 @@
     "start_date_local": "2026-09-27T10:17:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 11780.1,
+    "elevation_gain": 116.0,
+    "id": "20379692209",
+    "moving_time": 4201.0,
+    "name": "5 mile tempo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-29T07:18:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -9908,6 +9908,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20356680586",
       "year": 2026
+    },
+    {
+      "date": "2026-09-29",
+      "hour": 7,
+      "name": "5 mile tempo",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20379692209",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18250,6 +18259,15 @@
           "distance": 22541.1,
           "elevation_gain": 164.0,
           "moving_time": 8269.0
+        },
+        "2026-09-29": {
+          "activity_ids": [
+            "20379692209"
+          ],
+          "count": 1,
+          "distance": 11780.1,
+          "elevation_gain": 116.0,
+          "moving_time": 4201.0
         }
       },
       "Swim": {
@@ -19737,7 +19755,7 @@
       }
     }
   },
-  "generated_at": "2026-09-28T21:04:46.950339+00:00",
+  "generated_at": "2026-09-29T19:47:41.157741+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
