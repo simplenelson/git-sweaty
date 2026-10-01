@@ -9917,6 +9917,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20379692209",
       "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 13,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20398517605",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 14,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20399002707",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18268,6 +18286,15 @@
           "distance": 11780.1,
           "elevation_gain": 116.0,
           "moving_time": 4201.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "20398517605"
+          ],
+          "count": 1,
+          "distance": 6038.5,
+          "elevation_gain": 137.0,
+          "moving_time": 2747.0
         }
       },
       "Swim": {
@@ -19739,6 +19766,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1518.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "20399002707"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1137.0
         }
       },
       "Workout": {
@@ -19755,7 +19791,7 @@
       }
     }
   },
-  "generated_at": "2026-09-30T19:51:27.903855+00:00",
+  "generated_at": "2026-10-01T20:07:34.266242+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
