@@ -9993,7 +9993,7 @@
     {
       "date": "2026-10-11",
       "hour": 8,
-      "name": "Morning Run",
+      "name": "Chicago Marathon",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/20546283139",
@@ -19917,7 +19917,7 @@
       }
     }
   },
-  "generated_at": "2026-10-11T19:21:11.340650+00:00",
+  "generated_at": "2026-10-12T22:23:58.886289+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
