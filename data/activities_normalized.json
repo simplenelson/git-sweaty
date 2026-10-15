@@ -14441,5 +14441,18 @@
     "start_date_local": "2026-10-11T08:50:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 13995.9,
+    "elevation_gain": 103.0,
+    "id": "20599832104",
+    "moving_time": 2242.0,
+    "name": "Zwift - Fresh Legs Roll",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-15T18:15:49Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
