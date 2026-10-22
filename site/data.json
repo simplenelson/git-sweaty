@@ -10043,6 +10043,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20663427415",
       "year": 2026
+    },
+    {
+      "date": "2026-10-21",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20676889788",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-21",
+      "hour": 8,
+      "name": "Morning walk with Nami",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20677016458",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-22",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20690059061",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18484,6 +18511,24 @@
           "distance": 9667.8,
           "elevation_gain": 133.0,
           "moving_time": 3616.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20676889788"
+          ],
+          "count": 1,
+          "distance": 6448.6,
+          "elevation_gain": 86.0,
+          "moving_time": 2426.0
+        },
+        "2026-10-22": {
+          "activity_ids": [
+            "20690059061"
+          ],
+          "count": 1,
+          "distance": 1607.5,
+          "elevation_gain": 32.0,
+          "moving_time": 688.0
         }
       },
       "Swim": {
@@ -19575,6 +19620,15 @@
           "distance": 7033.3,
           "elevation_gain": 68.4,
           "moving_time": 2788.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20677016458"
+          ],
+          "count": 1,
+          "distance": 7072.8,
+          "elevation_gain": 67.7,
+          "moving_time": 2408.0
         }
       },
       "WeightTraining": {
@@ -20007,7 +20061,7 @@
       }
     }
   },
-  "generated_at": "2026-10-20T18:55:23.440031+00:00",
+  "generated_at": "2026-10-22T19:03:17.700951+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/131630246",
   "repo": "simplenelson/git-sweaty",
