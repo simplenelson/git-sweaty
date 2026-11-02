@@ -14636,5 +14636,18 @@
     "start_date_local": "2026-10-30T09:51:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 42796.2,
+    "elevation_gain": 472.0,
+    "id": "20823803414",
+    "moving_time": 18147.0,
+    "name": "26.2 mile party in NYC",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-01T10:55:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
